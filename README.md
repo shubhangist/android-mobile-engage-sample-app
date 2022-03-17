@@ -1,4 +1,4 @@
-# Mobile Engage Sample Applications
+# Mobile Engage Sample Applicationss
 
 This repository contains our sample application. Before checking out the SampleApp it is advised to read through the documentation which you can find below.
 
